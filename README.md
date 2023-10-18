@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shouzheng
-- 👀 I’m interested in DM
+- 👀 I’m interested in Java Developer、Microservices、Docker & K8S、Big Data、Machine Learning
 - 🌱 I’m currently learning Python, Machine Learning
-- 💞️ I’m looking to collaborate on DM
+- 💞️ I’m actively looking for business cooperation opportunities
 - 📫 How to reach me: shouzheng.hz@qq.com
 
 <!---
